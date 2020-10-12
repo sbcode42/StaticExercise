@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Testpiggy\\repos\\StaticExercise\\StaticExercise\\StaticExercise.csproj": {}
+    "C:\\Users\\Testpiggy\\repos\\StaticExercise\\StaticExercise.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Testpiggy\\repos\\StaticExercise\\StaticExercise\\StaticExercise.csproj": {
+    "C:\\Users\\Testpiggy\\repos\\StaticExercise\\StaticExercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Testpiggy\\repos\\StaticExercise\\StaticExercise\\StaticExercise.csproj",
+        "projectUniqueName": "C:\\Users\\Testpiggy\\repos\\StaticExercise\\StaticExercise.csproj",
         "projectName": "StaticExercise",
-        "projectPath": "C:\\Users\\Testpiggy\\repos\\StaticExercise\\StaticExercise\\StaticExercise.csproj",
+        "projectPath": "C:\\Users\\Testpiggy\\repos\\StaticExercise\\StaticExercise.csproj",
         "packagesPath": "C:\\Users\\Testpiggy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Testpiggy\\repos\\StaticExercise\\StaticExercise\\obj\\",
+        "outputPath": "C:\\Users\\Testpiggy\\repos\\StaticExercise\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Testpiggy\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

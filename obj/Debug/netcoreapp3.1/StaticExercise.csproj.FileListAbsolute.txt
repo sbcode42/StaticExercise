@@ -1,0 +1,13 @@
+C:\Users\Testpiggy\repos\StaticExercise\bin\Debug\netcoreapp3.1\StaticExercise.exe
+C:\Users\Testpiggy\repos\StaticExercise\bin\Debug\netcoreapp3.1\StaticExercise.deps.json
+C:\Users\Testpiggy\repos\StaticExercise\bin\Debug\netcoreapp3.1\StaticExercise.runtimeconfig.json
+C:\Users\Testpiggy\repos\StaticExercise\bin\Debug\netcoreapp3.1\StaticExercise.runtimeconfig.dev.json
+C:\Users\Testpiggy\repos\StaticExercise\bin\Debug\netcoreapp3.1\StaticExercise.dll
+C:\Users\Testpiggy\repos\StaticExercise\bin\Debug\netcoreapp3.1\StaticExercise.pdb
+C:\Users\Testpiggy\repos\StaticExercise\obj\Debug\netcoreapp3.1\StaticExercise.csprojAssemblyReference.cache
+C:\Users\Testpiggy\repos\StaticExercise\obj\Debug\netcoreapp3.1\StaticExercise.AssemblyInfoInputs.cache
+C:\Users\Testpiggy\repos\StaticExercise\obj\Debug\netcoreapp3.1\StaticExercise.AssemblyInfo.cs
+C:\Users\Testpiggy\repos\StaticExercise\obj\Debug\netcoreapp3.1\StaticExercise.csproj.CoreCompileInputs.cache
+C:\Users\Testpiggy\repos\StaticExercise\obj\Debug\netcoreapp3.1\StaticExercise.dll
+C:\Users\Testpiggy\repos\StaticExercise\obj\Debug\netcoreapp3.1\StaticExercise.pdb
+C:\Users\Testpiggy\repos\StaticExercise\obj\Debug\netcoreapp3.1\StaticExercise.genruntimeconfig.cache
